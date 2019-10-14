@@ -2636,6 +2636,8 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
+    margin-right: auto;
+    margin-left: auto;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
