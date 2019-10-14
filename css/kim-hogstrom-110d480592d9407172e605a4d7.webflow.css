@@ -1522,6 +1522,40 @@
   height: 10px;
 }
 
+.image-22 {
+  position: absolute;
+}
+
+.lightbox-link-5 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.lightbox-link-6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-top: 16px;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
 .image-23 {
   background-color: rgba(12, 0, 102, 0.91);
 }
@@ -2343,7 +2377,7 @@
     font-size: 11px;
   }
   .section-2 {
-    background-image: url('../images/Skarmavbild-2019-10-14-kl.-17.35.06.png');
+    background-image: url('../images/Skärmavbild-2019-10-14-kl.-17.35.06.png');
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: repeat;
@@ -2636,8 +2670,6 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    margin-right: auto;
-    margin-left: auto;
     -webkit-box-pack: center;
     -webkit-justify-content: center;
     -ms-flex-pack: center;
