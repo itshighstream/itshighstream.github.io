@@ -810,14 +810,14 @@
 .work-image.cc-work-6 {
   height: 500px;
   margin-bottom: 0px;
-  background-image: url('../images/Skärmavbild-2019-09-23-kl.-14.09.33.png');
+  background-image: url('../images/paulreywork.jpg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .work-image.cc-work-6:hover {
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(56%, transparent), to(rgba(11, 13, 44, 0.5))), url('../images/Skärmavbild-2019-09-23-kl.-14.09.33.png');
-  background-image: linear-gradient(180deg, transparent 56%, rgba(11, 13, 44, 0.5)), url('../images/Skärmavbild-2019-09-23-kl.-14.09.33.png');
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(56%, transparent), to(rgba(11, 13, 44, 0.5))), url('../images/paulreywork.jpg');
+  background-image: linear-gradient(180deg, transparent 56%, rgba(11, 13, 44, 0.5)), url('../images/paulreywork.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
   opacity: 1;
