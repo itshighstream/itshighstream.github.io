@@ -1549,6 +1549,7 @@
   margin-top: 16px;
   -webkit-box-pack: center;
   -webkit-justify-content: center;
+  -ms-flex-pack: center;
   justify-content: center;
   -webkit-box-align: center;
   -webkit-align-items: center;
