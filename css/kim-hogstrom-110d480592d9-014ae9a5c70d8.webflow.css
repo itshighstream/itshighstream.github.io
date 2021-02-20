@@ -919,7 +919,7 @@
 }
 
 .work-image.work-2-1 {
-  background-image: url('../images/Skärmavbild-2021-02-19-kl.-19.36.34.png');
+  background-image: url('../images/kommunal.png');
   background-position: 50% 80%;
   background-size: auto 102%;
   background-attachment: scroll;
@@ -930,7 +930,7 @@
 }
 
 .work-image.work13 {
-  background-image: url('../images/Skärmavbild-2021-02-19-kl.-19.54.34.png');
+  background-image: url('../images/anyfin.png');
 }
 
 .heading-7 {
@@ -1104,7 +1104,7 @@
 }
 
 .section-5 {
-  margin: 130px 100px -3px;
+  margin: 130px 200px -3px;
   padding-left: 0px;
 }
 
@@ -1903,13 +1903,14 @@
 }
 
 .body {
+  margin-bottom: 53px;
   background-color: #fff;
   background-clip: border-box;
 }
 
 .columns-6 {
-  margin-right: 100px;
-  margin-left: 99px;
+  margin-right: 200px;
+  margin-left: 199px;
 }
 
 .column-18 {
@@ -1929,6 +1930,14 @@
 
 .column-21 {
   padding-left: 0px;
+}
+
+.div-block-33 {
+  margin-top: 121px;
+}
+
+.text-block-6 {
+  margin-top: 188px;
 }
 
 @media screen and (max-width: 991px) {
